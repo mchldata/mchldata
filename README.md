@@ -17,14 +17,13 @@ Hi! Welcome to my page! :)
 
 ## ⚙️ Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60">
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="60">
+  <img src="https://cdn.simpleicons.org/python" width="60">
+  <img src="https://cdn.simpleicons.org/mysql" width="60">
+  
 </p>
 
 ---
@@ -60,3 +59,17 @@ Built data analysis projects using Python, Pandas, and Jupyter Notebook. Focused
 - LinkedIn: www.linkedin.com/in/yourprofile
 - Portfolio: yourwebsite.com
 - Email: your@email.com
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<h2 align="center">
+Data Analytics Toolkit
+</h2>
+
+<h2 align="center">
+Data Analytics Toolkit
+</h2>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,github" />
+</p>
+
