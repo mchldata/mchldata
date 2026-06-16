@@ -1,12 +1,11 @@
 # Michael Allan | Data Analyst
 
-Hi! Welcome to my page :) 
+👋 Hi, I'm Michael.
 
-I'm an analytical problem-solver with 6+ years of experience using data to drive decision-making, strategy, and performance improvement.
+I'm a deatail-oriented, aspiring data analyst who enjoys uncovering insights, solving problems, and transforming data into meaningful stories. My experience spans education, public transportation, and digital marketing, giving me a wealth of understanding of how data can drive improvements across different industries.
 
-Throughout my career in SEO, reporting and performance analysis, data has been central to how I've approached problem-solving and decision-making — from identifying opportunities for clients and measuring performance against KPIs to translating complex datasets into actionable recommendations.
+I'm currently building my analytics toolkit through practical projects in SQL, Python, Excel, Power BI, and Tableau. This page is here to showcases my learning journey, have a look below! 👇
 
-I'm currently expanding my technical analytics skillset through projects in SQL, Python, Excel, Power BI, and Tableau.
 
 ## Data Analytics Toolkit
 
