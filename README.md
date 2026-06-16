@@ -4,7 +4,7 @@
 
 I'm a deatail-oriented, aspiring data analyst who enjoys uncovering insights, solving problems, and transforming data into meaningful stories. My experience spans education, public transportation, and digital marketing, giving me a wealth of understanding of how data can drive improvements across different industries.
 
-I'm currently building my analytics toolkit through practical projects in SQL, Python, Excel, Power BI, and Tableau. This page is here to showcases my learning journey, have a look below! 👇
+I'm currently building my analytics toolkit through practical, hands-on projects in SQL, Python, Excel, Power BI, and Tableau. This page is here to showcases my learning journey, have a look below! 👇
 
 
 ## Data Analytics Toolkit
