@@ -1,10 +1,10 @@
 # Michael Allan | Data Analyst
 
-👋 Hi, I'm Michael.
+Hi, I'm Michael :) and I'm a data analyst based in London, UK .
 
-I'm a deatail-oriented, aspiring data analyst who enjoys uncovering insights, solving problems, and transforming data into meaningful stories. My experience spans education, public transportation, and digital marketing, giving me a wealth of understanding of how data can drive improvements across different industries.
+I enjoy uncovering insights, solving problems, and adding value to busisnesses by transforming data into meaningful stories. My professional work experience spans across education, public transportation, and digital marketing, giving me a unique  wealth of knowledge and understanding of how data can drive improvements across different industries.
 
-I'm currently building my analytics toolkit through practical, hands-on projects in SQL, Python, Excel, Power BI, and Tableau. This page is here to showcases my learning journey, have a look below! 👇
+I'm currently building my data analytics toolkit through practical, hands-on projects in SQL, Python, Excel, Power BI, and Tableau. This page is here to showcases my learning journey, have a look below! 👇
 
 
 ## Data Analytics Toolkit
