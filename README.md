@@ -1,6 +1,6 @@
 # Michael Allan | Aspring Data Analyst
 
-Hi! Welcome to my page! :) 
+Hi! Welcome to my page :) 
 
 I'm an analytical problem-solver with 6+ years of experience using data to drive decision-making, strategy, and performance improvement.
 
