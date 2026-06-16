@@ -1,4 +1,4 @@
-# Michael Allan | Aspring Data Analyst
+# Michael Allan | Data Analyst
 
 Hi! Welcome to my page :) 
 
