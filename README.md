@@ -1,6 +1,6 @@
 # Michael Allan | Data Analyst
 
-Hi, I'm Michael :) and I'm a data analyst based in London, UK .
+Hello ! 👋 I'm Michael :) and I'm a data analyst based in sunny south London
 
 I enjoy uncovering insights, solving problems, and adding value to busisnesses by transforming data into meaningful stories. My professional work experience spans across education, public transportation, and digital marketing, giving me a unique  wealth of knowledge and understanding of how data can drive improvements across different industries.
 
