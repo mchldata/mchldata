@@ -1,4 +1,4 @@
-# Michael Allan - Aspiring Data Analyst
+# Michael Allan - Data Analyst
 
 Hello 👋 I'm Michael and I'm an aspiring Data Analyst based in sunny south London! ☀️💂
 
