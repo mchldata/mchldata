@@ -20,42 +20,21 @@ Right now, I'm currently building my data analytics toolkit through practical, h
 
 ## Featured Projects
 
-### Power BI Data Analysis
-
-Created interactive Power BI reports using sales and business data. Used Power Query to clean and transform datasets before presenting key metrics through maps, bar charts, line charts, slicers, and other interactive visuals.
+### Power BI 
 
 **[View Power BI Projects](https://github.com/yourusername/powerbi-projects)**
 
 
-### Tableau Data Visualisation
-
-Developed Tableau dashboards using Spotify, Life Expectancy, and Employment datasets. These projects demonstrate data storytelling, trend analysis, and interactive dashboard design.
+### Tableau
 
 **[View Tableau Projects](https://github.com/yourusername/tableau-projects)**
 
 
-### Python Data Analysis
-
-Built data analysis projects using Python, Pandas, and Jupyter Notebook. Focused on cleaning, transforming, and visualizing data to uncover insights.
-
-**[View Python Projects](https://github.com/yourusername/python-projects)**
-
-
-### SQL Data Analysis
-
-Built data analysis projects using Python, Pandas, and Jupyter Notebook. Focused on cleaning, transforming, and visualizing data to uncover insights.
-
+### SQL 
 **[View SQL Projects](https://github.com/yourusername/python-projects)**
 
 
-### Excel Data Analysis
-
-Built data analysis projects using Python, Pandas, and Jupyter Notebook. Focused on cleaning, transforming, and visualizing data to uncover insights.
-
-**[View Excel Projects](https://github.com/yourusername/python-projects)**
-
-
-## Connect With Me
+## Work with me
 
 - LinkedIn: www.linkedin.com/in/yourprofile
 
