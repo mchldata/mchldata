@@ -22,16 +22,16 @@ Right now, I'm currently building my data analytics toolkit through practical, h
 
 ### Power BI 
 
-**[View Power BI Projects](https://github.com/yourusername/powerbi-projects)**
+**[View Power BI Projects](https://github.com/mchldata/PowerBI)**
 
 
 ### Tableau
 
-**[View Tableau Projects](https://github.com/yourusername/tableau-projects)**
+**[View Tableau Projects](https://github.com/mchldata/Tableau-)**
 
 
 ### SQL 
-**[View SQL Projects](https://github.com/yourusername/python-projects)**
+**[View SQL Projects](https://github.com/mchldata/SQL)**
 
 
 ## Work with me
