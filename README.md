@@ -36,5 +36,5 @@ Right now, I'm currently building my data analytics toolkit through practical, h
 
 ## Work with me
 
-- LinkedIn: www.linkedin.com/in/yourprofile
+- LinkedIn: www.linkedin.com/in/michael-a-bbab0a417/
 
